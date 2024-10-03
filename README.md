@@ -21,15 +21,14 @@ This project is part of the Megaverse Challenge, where we aim to create a system
 ### Prerequisites
 
 - Node.js installed on your machine
-- A valid API key (if applicable)
 
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/megaverse-challenge.git
-   cd megaverse-challenge
+   git clone https://github.com/Rushikesh1234/Crossmint-Full-stack-Engineer-Wallets--NYC-.git
+   cd Crossmint-Full-stack-Engineer-Wallets--NYC-
 
 2. Install the required dependencies:
 
