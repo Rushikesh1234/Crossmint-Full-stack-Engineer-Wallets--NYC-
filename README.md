@@ -40,7 +40,9 @@ Start the application:
 
   ```bash
   node phase2.js
+  ```
 
 ### Output
+
 <img width="745" alt="image" src="https://github.com/user-attachments/assets/6950d24e-6296-42dd-baa0-1ef0edd340c3">
 
