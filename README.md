@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is part of the Megaverse Challenge, where we aim to create a system for managing entities in a game-like environment. The core functionality involves handling requests to create and manage entities based on a given goal map.
+This project is part of the Megaverse Challenge, where I aim to create a system for managing entities in a game-like environment. The core functionality involves handling requests to create and manage entities based on a given goal map.
 
 ## Features
 
